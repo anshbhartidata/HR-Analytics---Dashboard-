@@ -1,37 +1,32 @@
-# HR-Analytics---Dashboard-
-An interactive HR Analytics Dashboard built using Power BI to analyze employee data, track attrition rates, explore workforce trends, and generate meaningful business insights for data-driven HR decision-making.
-# HR Analytics Dashboard | Power BI
+# HR Analytics Dashboard – Employee Attrition Analysis
 
 ## 1. Project Title / Headline
-**HR Analytics Dashboard – Employee Attrition & Workforce Analysis**
+**HR Analytics Dashboard – Employee Attrition Analysis Using SQL & Power BI**
 
 ## 2. Project Description / Purpose
-Developed an interactive Power BI dashboard to analyze employee data and understand workforce attrition trends.
+Analyzed employee data to understand workforce distribution and identify employee attrition patterns.
 
-**Purpose:**
-- Identify employee attrition patterns.
-- Analyze workforce data across departments, age groups, and job roles.
-- Present key HR metrics to support data-driven decisions.
+**Purpose:** To help HR understand employee attrition across departments, age groups, and job roles through data analysis and visualization.
 
 ## 3. Tech Stack
-- Microsoft Power BI
-- Power Query (Data Cleaning & Transformation)
-- DAX (Measures and Calculations)
+- MySQL – Data analysis using SQL queries.
+- Power BI – Interactive dashboard and data visualization.
 
 ## 4. Data Source
-- HR Employee Dataset (IBM HR Analytics-style dataset)
-- Employee information including age, department, job role, monthly income, and attrition.
+IBM HR Analytics Employee Attrition Dataset.
 
-## 5. Features & Highlights
-- **KPI Cards:** Total Employees, Attrition Count, Attrition Rate, Average Age.
-- **Department Analysis:** Department-wise employee attrition.
-- **Demographic Analysis:** Attrition by age group and gender.
-- **Job Role Analysis:** Identify roles with higher employee attrition.
-- **Income Analysis:** Explore attrition patterns based on monthly income.
-- **Interactive Dashboard:** Visual filters and charts for exploring HR data.
+The dataset contains employee information such as age, gender, department, job role, monthly income, and attrition status.
+
+## 5. Key Features & Highlights
+- Total employee count.
+- Employee attrition count and attrition rate.
+- Department-wise employee and attrition analysis.
+- Average salary by department.
+- Employee analysis by age group and gender.
+- Job role and monthly income analysis.
 
 ## Project Outcome
-The dashboard helps identify employee attrition patterns and provides useful insights into workforce trends, supporting better HR analysis and decision-making.
+Created an interactive HR dashboard to analyze employee attrition and workforce trends, helping identify patterns that HR teams can investigate.
 
 
 screenshot 
