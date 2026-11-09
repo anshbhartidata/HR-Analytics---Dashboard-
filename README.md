@@ -29,5 +29,6 @@ The dataset contains employee information such as age, gender, department, job r
 Created an interactive HR dashboard to analyze employee attrition and workforce trends, helping identify patterns that HR teams can investigate.
 
 
-screenshot 
-https://github.com/anshbhartidata/HR-Analytics---Dashboard-/blob/main/HR%20Analytics%20-%20Dashboard.png
+screenshot ## Dashboard Preview
+
+![HR Analytics Dashboard](./HR%20Analytics%20-%20Dashboard.png)
